@@ -6,13 +6,19 @@ The London bullion market is a wholesale over-the-counter market for the trading
 
 From 1 April 2018, the LBMA Gold and Silver Prices on this page will not be available until midnight London time on the date that the prices are set. This is in line with the revised arrangements for delayed redistribution of the LBMA Gold Price and LBMA Silver Price recently announced by ICE Benchmark Administration (IBA) and is consistent with the timing of the publication of the LBMA Platinum prices. Customers that wish to access the LBMA Gold and Silver Prices in real-time should contact a market data redistributor.
 
-# Getting Started
+## Getting Started
 
-For using this api you need to add just single file and create a single object of metalPrice class. for that you need to download and include metalPrice.php it once before start to get price
+This is very simple API to intigrate as it onle single class by using this class you can call class method using object of that class. So using below link daonload that class file. and check example to implement it
 
-# Usage
+## Download this file 
 
-Once you include metalPrice.php you can get metal price using below function.
+![metalPrice.php](https://github.com/makasanaakshay/Precious-Metal-Prices-PHP-API/blob/master/metalPrice.php)
+
+
+## Example
+
+Once you have metalPrice.php, first you need to include this file and then you can call method as listed below to get metal price using.
+
 
 ```php
 include('metalPrice.php');
