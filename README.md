@@ -1,3 +1,9 @@
-# PHP-APIs
+# Precious Metal Prices
 
-Home of all free APIS like Precious Metal Prices etc.
+This API collecting data from LBMA's official site http://www.lbma.org.uk. Which update gold price twice in a day onr this page http://www.lbma.org.uk/precious-metal-prices.
+
+The London bullion market is a wholesale over-the-counter market for the trading of gold and silver. Trading is conducted among members of the London Bullion Market Association (LBMA), loosely overseen by the Bank of England. Most of the members are major international banks or bullion dealers and refiners.
+
+From 1 April 2018, the LBMA Gold and Silver Prices on this page will not be available until midnight London time on the date that the prices are set. This is in line with the revised arrangements for delayed redistribution of the LBMA Gold Price and LBMA Silver Price recently announced by ICE Benchmark Administration (IBA) and is consistent with the timing of the publication of the LBMA Platinum prices. Customers that wish to access the LBMA Gold and Silver Prices in real-time should contact a market data redistributor.
+
+
