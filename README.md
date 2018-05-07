@@ -15,7 +15,6 @@ For using this api you need to add just single file and create a single object o
 Once you include metalPrice.php you can get metal price using below function.
 
 ```php
-// PdfReport Aliases
 include('metalPrice.php');
 $metalPrice = new metalPrice();
 echo "Gold EURO Price : " . $metalPrice->goldToEUR();
