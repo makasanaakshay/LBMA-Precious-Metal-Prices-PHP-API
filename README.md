@@ -1,4 +1,4 @@
-# Precious Metal Prices
+# LBMA Precious Metal Prices
 
 This API collecting data from LBMA's official site http://www.lbma.org.uk. Which update gold price twice in a day onr this page http://www.lbma.org.uk/precious-metal-prices.
 
